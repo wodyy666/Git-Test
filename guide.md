@@ -16,3 +16,4 @@ BRANCHES
 git checkout -b new_branch
 git checkout existing_branch
 git branch delete old_branch
+"This repo is for testing stuff" 
